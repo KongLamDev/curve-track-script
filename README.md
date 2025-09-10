@@ -34,14 +34,14 @@ cd curve-track-script
 
 2. Install dependencies
 
-```npm install
-
+```
+npm install
 ```
 
 3. Create a `.env` file in the root folder:
 
-```MONGO_URI=mongodb://127.0.0.1:27017/curve-track-db
-
+```
+MONGO_URI=mongodb://127.0.0.1:27017/curve-track-db
 ```
 
 Replace the URI with your MongoDB connection string.
